@@ -1,4 +1,4 @@
-# Smart Road Level Checker Using RPLIDAR and IMU
+# Smart Road Level Checker
 
 ## Description
 This project is a cost-effective road leveling and surface profiling system that utilizes **RPLIDAR** and **IMU sensors** to detect surface irregularities in real time. The system processes sensor data using **Kalman filtering** and **sensor fusion**, then visualizes results on **Grafana dashboards** for monitoring and analysis.
