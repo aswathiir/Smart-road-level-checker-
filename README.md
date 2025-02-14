@@ -1,4 +1,4 @@
-# Road Surface Analysis and Visualization Using Intel RealSense RGB-D Camera
+# Road Surface Analysis and Visualization
 
 ## Overview
 This project aims to develop a cost-effective road surface analysis system using **Intel RealSense RGB-D cameras** instead of LiDAR. The system will classify road features such as speed bumps, flower beds, and pedestrian walkways based on length thresholds while analyzing potholes. The collected data will be visualized using **RViz and Gazebo**, with Kalman filtering for sensor fusion and noise reduction.
