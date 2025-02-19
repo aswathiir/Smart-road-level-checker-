@@ -9,11 +9,11 @@ This project aims to develop a cost-effective road surface analysis system using
 3. **Raspberry Pi** – Serves as the primary computation unit for processing sensor data.
 
 ## Tech Stack
-1.**Backend**: Flask (Python)
-2. **Frontend**: Bootstrap, Jinja2
-3.**Visualization**: Matplotlib, Plotly, Open3D (for 3D point clouds)
-4.**Data Handling**: NumPy, Pandas (for processing simulated depth data)
-5.**Communication**: Flask REST API (later WebSockets/MQTT for real-time updates)
+1.**Backend**: Flask (Python).
+2. **Frontend**: Bootstrap, Jinja2.
+3.**Visualization**: Matplotlib, Plotly, Open3D (for 3D point clouds).
+4.**Data Handling**: NumPy, Pandas (for processing simulated depth data).
+5.**Communication**: Flask REST API (later WebSockets/MQTT for real-time updates).
 
 ## Methodology
 1. **Data Acquisition**:
