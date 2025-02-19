@@ -8,8 +8,7 @@ This project aims to develop a cost-effective road surface analysis system using
 2. **IMU (MPU-6050)** – Provides orientation and inclination readings for accurate road profiling.
 3. **Raspberry Pi** – Serves as the primary computation unit for processing sensor data.
 
-### Tech Stack
-
+## Tech Stack
 1.**Backend**: Flask (Python)
 2. **Frontend**: Bootstrap, Jinja2
 3.**Visualization**: Matplotlib, Plotly, Open3D (for 3D point clouds)
